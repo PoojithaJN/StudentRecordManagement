@@ -25,7 +25,7 @@ Build a CLI-based system to manage student records:
    Right-click 'src' → New → Class → Name it 'StudentCRUDSystem'  
    Check the box:'public static void main(String[] args)'
 4. **Write the Code**:  
-   in StudentCRUDSystem.java'
+   in 'StudentCRUDSystem.java'
 5. **Run the Program**:  
    Right-click the file → 'Run As' → 'Java Application'
 6. **Use the Eclipse Terminal** to interact with the menu.
