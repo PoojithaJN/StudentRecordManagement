@@ -10,13 +10,6 @@ Build a CLI-based system to manage student records:
 - Update student details by ID
 - Delete student by ID
 
-## Features
-
-- Menu-based interface using numbers
-- Simple and clear console prompts
-- Input validation for update/delete
-- Easy-to-understand code structure
-
 ## Tools Used
 
 -  **Java (JDK 24)**
